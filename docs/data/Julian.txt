@@ -21,3 +21,6 @@ PossibleAnswers:Fallout 4,Fallout $$$ File:J15.mp3 $$$ Difficulty:4 $$$ ShortDis
 PossibleAnswers:Torchlight II,Torchlight,Torchlight 2 $$$ File:J16.mp3 $$$ Difficulty:4 $$$ ShortDisplay:https://www.youtube.com/embed/Il1u3lpY40I
 PossibleAnswers:Batman: Arkham Knight,Batman,Batman:Arkham Knight $$$ File:J17.mp3 $$$ Difficulty:5 $$$ ShortDisplay:https://www.youtube.com/embed/vQrh92Xmwt0
 PossibleAnswers:Among Us $$$ File:J18.mp3 $$$ Difficulty:1 $$$ ShortDisplay:https://www.youtube.com/embed/iwHa2kVonyU
+
+Worms
+Mario Strikers

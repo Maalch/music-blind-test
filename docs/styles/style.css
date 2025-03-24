@@ -163,6 +163,18 @@ iframe {
     background-color: #218838;
 }
 
+/* Default (light theme) styles for the modal message */
+#modal-message {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+    color: #333;
+    background-color: #ffffff; /* Light background */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+
 
 /* Dark theme styles */
 @media (prefers-color-scheme: dark) {
@@ -224,5 +236,11 @@ iframe {
 
     #next-button:hover {
         background-color: #388e3c;
+    }
+
+    #modal-message {
+        color: #e0e0e0; /* Light text */
+        background-color: #1e1e1e; /* Dark background */
+        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5); /* Adjust shadow for dark theme */
     }
 }

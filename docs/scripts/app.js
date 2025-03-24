@@ -194,7 +194,7 @@ function resetTriesAndMoveToNextTrack() {
     document.getElementById('youtube-iframe').src = ''; // Clear the iframe
 
     // Reset tries
-    remainingTries = 5;
+    remainingTries = 3;
 
     // Check if this is the last track
     if (currentTrackIndex === musicData.length - 1) {
