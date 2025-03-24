@@ -1,0 +1,164 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 20px;
+    color: #333;
+}
+
+h1 {
+    text-align: center;
+    color: #444;
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+p {
+    text-align: center;
+    color: #666;
+    font-size: 1rem;
+    margin-bottom: 20px;
+}
+
+.container {
+    max-width: 700px;
+    margin: 0 auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+#track-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+#score {
+    font-size: 1.2rem;
+    text-align: center;
+    margin-bottom: 10px;
+    color: #007bff;
+}
+
+#comments {
+    font-size: 1rem;
+    text-align: center;
+    margin-bottom: 15px;
+    color: #555;
+    font-style: italic;
+}
+
+#difficulty-info {
+    font-size: 1rem;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+
+.difficulty-1 {
+    color: #228B22; /* Darker green */
+}
+
+.difficulty-2 {
+    color: green;
+}
+
+.difficulty-3 {
+    color: #DAA520; /* Goldenrod */
+}
+
+.difficulty-4 {
+    color: orange;
+}
+
+.difficulty-5 {
+    color: red;
+}
+
+button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    margin-top: 10px;
+    display: block;
+    width: 100%;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.guess-section {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.guess-section input {
+    width: calc(100% - 20px);
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+
+.guess-section button {
+    width: auto;
+    display: inline-block;
+}
+
+#youtube-modal {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+    z-index: 1000;
+    justify-content: center;
+    align-items: center;
+}
+
+#youtube-modal div {
+    position: relative;
+    width: 80%;
+    max-width: 800px;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+#modal-message {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+iframe {
+    border-radius: 10px;
+}
+
+#next-button {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    margin-top: 20px;
+}
+
+#next-button:hover {
+    background-color: #218838;
+}

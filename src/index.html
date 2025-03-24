@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music Blind Test - Selection</title>
+    <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Bienvenue au Blind Test</h1>
+        <p>Sélectionnez une playlist pour commencer :</p>
+        <div class="selection-buttons">
+            <button onclick="startGame('Aurelie.txt')">Aurélie</button>
+            <button onclick="startGame('Julian.txt')">Julian</button>
+        </div>
+    </div>
+    <script>
+        function startGame(fileName) {
+            // Redirect to the game page with the selected file as a query parameter
+            window.location.href = `game.html?file=${fileName}`;
+        }
+    </script>
+</body>
+</html>

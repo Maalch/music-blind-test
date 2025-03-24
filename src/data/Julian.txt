@@ -1,0 +1,23 @@
+PossibleAnswers:Balatro $$$ File:A3.mp3 $$$ Difficulty:2 $$$ ShortDisplay:https://www.youtube.com/embed/N_4Hyet9-3w $$$ Comment:Version 'live' pour que ce soit un peu plus dur...
+PossibleAnswers:Animal Crossing new Horizon,Animal Crossing $$$ File:A7.mp3 $$$ Difficulty:1 $$$ ShortDisplay:https://www.youtube.com/embed/vc1zlXMyZow $$$ Comment:Pour Emilie...
+PossibleAnswers:Overcooked 2,OverCooked, OverCooked!, OverCooked! 2 $$$ File:A13.mp3 $$$ Difficulty:2 $$$ ShortDisplay:https://www.youtube.com/embed/-y6J28I5z0c
+PossibleAnswers:Super Marios Bros,Mario,Mario 1,Mario Bros,Mario $$$ File:A17.mp3 $$$ Difficulty:1 $$$ ShortDisplay:https://www.youtube.com/embed/zc28zcBIX7U
+PossibleAnswers:Hearthstone,HS $$$ File:A19.mp3 $$$ Difficulty:2 $$$ ShortDisplay:https://www.youtube.com/embed/j_vLgPptLp8
+PossibleAnswers:Powerwash Simulator,Powerwash $$$ File:J1.mp3 $$$ Difficulty:2 $$$ ShortDisplay:https://www.youtube.com/embed/SWptEyTHD1s $$$ Comment:Pour Emilie...
+PossibleAnswers:Goldeneye, Facility, Goldeneye 007 $$$ File:J2.mp3 $$$ Difficulty:3 $$$ ShortDisplay:https://www.youtube.com/embed/usb8ehvqlYo
+PossibleAnswers:Sea of Thieves,SoT,Sea of thief,chargement $$$ File:J3.mp3 $$$ Difficulty:2 $$$ ShortDisplay:https://www.youtube.com/embed/M3TNPykCJPo
+PossibleAnswers:Sea of Thieves,SoT,Sea of thief,Monkey Island $$$ File:J4.mp3 $$$ Difficulty:2 $$$ ShortDisplay:https://www.youtube.com/embed/vAc1ux_kCYA
+PossibleAnswers:Darkest Dungeon,Darkest Dungeon 1 $$$ File:J5.mp3 $$$ Difficulty:3 $$$ ShortDisplay:https://www.youtube.com/embed/UpIBKNxSeZU
+PossibleAnswers:Hades,Hades 1 $$$ File:J6.mp3 $$$ Difficulty:2 $$$ ShortDisplay:https://www.youtube.com/embed/oksESAMg7WM
+PossibleAnswers:Micro Machines v3,Micro Machine,Micro Machines $$$ File:J7.mp3 $$$ Difficulty:4 $$$ ShortDisplay:https://www.youtube.com/embed/oW9lqHDPx5c
+PossibleAnswers:Mario Party 5,Mario Party $$$ File:J8.mp3 $$$ Difficulty:2 $$$ ShortDisplay:https://www.youtube.com/embed/gRQP4ctDMyo
+PossibleAnswers:Unrailed!,Unrailed,Unrailed 1 $$$ File:J9.mp3 $$$ Difficulty:5 $$$ ShortDisplay:https://www.youtube.com/embed/ZudRCM0-yyI
+PossibleAnswers:Slay the Spire $$$ File:J10.mp3 $$$ Difficulty:3 $$$ ShortDisplay:https://www.youtube.com/embed/xeZDWkcIGXc
+PossibleAnswers:Stardew Valley $$$ File:J11.mp3 $$$ Difficulty:1 $$$ ShortDisplay:https://www.youtube.com/embed/FQSHcl6TJb4 $$$ Comment:Pour Emilie...
+PossibleAnswers:Donkey Kong Country 2,DK2,Donkey Kong Country,Donkey Kong $$$ File:J12.mp3 $$$ Difficulty:3 $$$ ShortDisplay:https://www.youtube.com/embed/mdPlcKg-qFs
+PossibleAnswers:Civilization V,Civilization,Civilization 5,civ, civ 5 $$$ File:J13.mp3 $$$ Difficulty:4 $$$ ShortDisplay:https://www.youtube.com/embed/B5A7hwjYXFw
+PossibleAnswers:Civilization VI,Civilization,Civilization 6,civ,civ 6 $$$ File:J14.mp3 $$$ Difficulty:2 $$$ ShortDisplay:https://www.youtube.com/embed/WQYN2P3E06s
+PossibleAnswers:Fallout 4,Fallout $$$ File:J15.mp3 $$$ Difficulty:4 $$$ ShortDisplay:https://www.youtube.com/embed/_yGpoRbwe4s
+PossibleAnswers:Torchlight II,Torchlight,Torchlight 2 $$$ File:J16.mp3 $$$ Difficulty:4 $$$ ShortDisplay:https://www.youtube.com/embed/Il1u3lpY40I
+PossibleAnswers:Batman: Arkham Knight,Batman,Batman:Arkham Knight $$$ File:J17.mp3 $$$ Difficulty:5 $$$ ShortDisplay:https://www.youtube.com/embed/vQrh92Xmwt0
+PossibleAnswers:Among Us $$$ File:J18.mp3 $$$ Difficulty:1 $$$ ShortDisplay:https://www.youtube.com/embed/iwHa2kVonyU
