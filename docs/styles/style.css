@@ -162,3 +162,67 @@ iframe {
 #next-button:hover {
     background-color: #218838;
 }
+
+
+/* Dark theme styles */
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #121212;
+        color: #e0e0e0;
+    }
+
+    h1 {
+        color: #ffffff;
+    }
+
+    p {
+        color: #b0b0b0;
+    }
+
+    .container {
+        background: #1e1e1e;
+        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
+    }
+
+    #track-title {
+        color: #ffffff;
+    }
+
+    #score {
+        color: #4caf50; /* Green for score */
+    }
+
+    #comments {
+        color: #a0a0a0;
+    }
+
+    #difficulty-info {
+        color: #b0b0b0;
+    }
+
+    button {
+        background-color: #333333;
+        color: #ffffff;
+    }
+
+    button:hover {
+        background-color: #444444;
+    }
+
+    #youtube-modal div {
+        background: #1e1e1e;
+        color: #e0e0e0;
+    }
+
+    #modal-message {
+        color: #ffffff;
+    }
+
+    #next-button {
+        background-color: #4caf50;
+    }
+
+    #next-button:hover {
+        background-color: #388e3c;
+    }
+}

@@ -8,6 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
     fetchMusicInfo();
     document.getElementById('play-button').addEventListener('click', playMusic);
     document.getElementById('guess-button').addEventListener('click', checkGuess);
+    document.getElementById('skip-button').addEventListener('click', skipTrack);
     updateScoreDisplay(); // Initialize the score display
 });
 
@@ -45,6 +46,28 @@ function fetchMusicInfo() {
             }
         })
         .catch(error => console.error('Error fetching music info:', error));
+}
+
+function skipTrack() {
+    // Stop the currently playing audio
+    if (currentAudio && !currentAudio.paused) {
+        currentAudio.pause();
+        currentAudio.currentTime = 0; // Reset to the beginning
+        document.getElementById('play-button').textContent = 'Play'; // Reset button text
+        currentAudio = null;
+    }
+
+    // Clear the input field
+    document.getElementById('guess-input').value = '';
+
+    // Move to the next track
+    if (currentTrackIndex === musicData.length - 1) {
+        // If it's the last track, show the final score modal
+        showFinalScoreModal();
+    } else {
+        currentTrackIndex = (currentTrackIndex + 1) % musicData.length;
+        displayCurrentTrack();
+    }
 }
 
 function displayCurrentTrack() {
@@ -101,7 +124,7 @@ function updateScoreDisplay() {
     scoreDiv.textContent = `Score: ${userScore}`;
 }
 
-let remainingTries = 5; // Initialize the number of tries
+let remainingTries = 3; // Initialize the number of tries
 
 function checkGuess() {
     const userGuess = document.getElementById('guess-input').value.trim();
