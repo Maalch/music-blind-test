@@ -222,6 +222,36 @@ function showFinalScoreModal() {
     // Show the modal
     youtubeModal.style.display = 'flex';
 
+    // Send the results to the backend
+    const results = {
+        userName: playerName,
+        userScore: userScore,
+        totalTracks: musicData.length,
+        date: new Date().toISOString(), // Current date in ISO format
+    };
+
+    fetch('https://pacific-tor-04753-775fa950a6aa.herokuapp.com/save-results', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(results),
+    })
+        .then((response) => {
+            if (!response.ok) {
+                throw new Error(`Failed to save results: ${response.statusText}`);
+            }
+            return response.json();
+        })
+        .then((data) => {
+            console.log('Results saved successfully:', data);
+            alert(`Résultats sauvegardés avec succès ! ID du fichier : ${data.fileId}`);
+        })
+        .catch((error) => {
+            console.error('Error saving results:', error);
+            alert('Une erreur est survenue lors de la sauvegarde des résultats.');
+        });
+
     // Update the "Next" button to restart the game
     const nextButton = document.getElementById('next-button');
     nextButton.textContent = 'Rejouer';
