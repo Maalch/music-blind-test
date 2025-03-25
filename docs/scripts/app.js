@@ -186,8 +186,9 @@ function resetTriesAndMoveToNextTrack() {
 
     // Hide the YouTube modal (if open)
     const youtubeModal = document.getElementById('youtube-modal');
+    const youtubeIframe = document.getElementById('youtube-iframe');
     youtubeModal.style.display = 'none';
-    document.getElementById('youtube-iframe').src = ''; // Clear the iframe
+    youtubeIframe.src = ''; // Clear the iframe
 
     // Reset tries
     remainingTries = 3;
@@ -224,10 +225,10 @@ function showFinalScoreModal() {
 
     // Send the results to the backend
     const results = {
-        userName: playerName,
-        userScore: userScore,
-        totalTracks: musicData.length,
-        playList: selectedFile, // Include the name of the source file
+        userName: playerName || 'Unknown',
+        userScore: userScore || 0,
+        totalTracks: musicData.length || 0,
+        playList: selectedFile || 'Unknown.txt', // Include the name of the source file
         date: new Date().toISOString(), // Current date in ISO format
     };
 
@@ -260,8 +261,13 @@ function showFinalScoreModal() {
 function restartGame() {
     userScore = 0; // Reset the score
     currentTrackIndex = 0; // Reset the track index
-    remainingTries = 5; // Reset the tries
+    remainingTries = 3; // Reset the tries
     updateScoreDisplay(); // Update the score display
+
+    // Clear the YouTube iframe
+    const youtubeIframe = document.getElementById('youtube-iframe');
+    youtubeIframe.src = '';
+
     displayCurrentTrack(); // Display the first track
 }
 
