@@ -244,13 +244,8 @@ function showFinalScoreModal() {
             }
             return response.json();
         })
-        .then((data) => {
-            console.log('Results saved successfully:', data);
-            alert(`Résultats sauvegardés avec succès ! ID du fichier : ${data.fileId}`);
-        })
         .catch((error) => {
             console.error('Error saving results:', error);
-            alert('Une erreur est survenue lors de la sauvegarde des résultats.');
         });
 
     // Update the "Next" button to restart the game
