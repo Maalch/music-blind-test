@@ -48,14 +48,16 @@
         // Dynamically update the title based on the selected file
         const urlParams = new URLSearchParams(window.location.search);
         const selectedFile = urlParams.get('file');
+        const playerName = urlParams.get('playerName') || 'Joueur'; // Default to "Joueur" if no name is provided
+    
         const gameTitle = document.getElementById('game-title');
-
+    
         if (selectedFile === 'Aurelie.txt') {
-            gameTitle.textContent = 'Musique Blind Test - Aurélie';
+            gameTitle.textContent = `Musique Blind Test - Aurélie`;
         } else if (selectedFile === 'Julian.txt') {
-            gameTitle.textContent = 'Musique Blind Test - Julian';
+            gameTitle.textContent = `Musique Blind Test - Julian`;
         } else {
-            gameTitle.textContent = 'Musique Blind Test';
+            gameTitle.textContent = `Musique Blind Test`;
         }
     </script>
     <script src="./scripts/app.js"></script>

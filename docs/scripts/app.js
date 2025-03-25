@@ -3,6 +3,7 @@ const musicInfoFile = selectedFile ? `data/${selectedFile}` : 'data/Aurelie.txt'
 let musicData = [];
 let currentTrackIndex = 0;
 let userScore = 0; // Initialize the user's score
+let playerName = ''; // Initialize the player's name
 
 document.addEventListener('DOMContentLoaded', () => {
     fetchMusicInfo();
@@ -209,9 +210,9 @@ function showFinalScoreModal() {
     const modalMessage = document.getElementById('modal-message');
     const youtubeIframe = document.getElementById('youtube-iframe');
 
-    // Display the final score
+    // Display the final score with the player's name
     modalMessage.innerHTML = `
-        <h2>Félicitations !</h2>
+        <h2>Félicitations, ${playerName} !</h2>
         <p>Votre score final est de ${userScore} sur ${musicData.length}.</p>
         <p>Merci d'avoir joué !</p>
     `;

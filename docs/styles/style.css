@@ -174,7 +174,29 @@ iframe {
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
 }
 
+#name-input-section {
+    text-align: center;
+    margin-top: 50px;
+}
 
+#player-name {
+    width: 100%;
+    padding: 12px;
+    font-size: 1rem;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+    background-color: #ffffff;
+    color: #333;
+    transition: border-color 0.3s, background-color 0.3s, color 0.3s;
+}
+
+#player-name:focus {
+    border-color: #007bff; /* Blue border on focus */
+    outline: none;
+    background-color: #f0f8ff; /* Light blue background on focus */
+}
 
 /* Dark theme styles */
 @media (prefers-color-scheme: dark) {
@@ -242,5 +264,16 @@ iframe {
         color: #e0e0e0; /* Light text */
         background-color: #1e1e1e; /* Dark background */
         box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5); /* Adjust shadow for dark theme */
+    }
+
+    #player-name {
+        background-color: #1e1e1e;
+        color: #e0e0e0;
+        border: 2px solid #444;
+    }
+
+    #player-name:focus {
+        border-color: #4caf50; /* Green border on focus */
+        background-color: #2a2a2a; /* Slightly lighter background on focus */
     }
 }

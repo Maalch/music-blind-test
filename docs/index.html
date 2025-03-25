@@ -9,6 +9,7 @@
 <body>
     <div class="container">
         <h1>Bienvenue au Blind Test</h1>
+        <input type="text" id="player-name" placeholder="Votre nom">
         <p>Sélectionnez une playlist pour commencer :</p>
         <div class="selection-buttons">
             <button onclick="startGame('Aurelie.txt')">Aurélie</button>
@@ -17,8 +18,16 @@
     </div>
     <script>
         function startGame(fileName) {
-            // Redirect to the game page with the selected file as a query parameter
-            window.location.href = `game.html?file=${fileName}`;
+            const playerNameInput = document.getElementById('player-name');
+            const playerName = playerNameInput.value.trim();
+
+            if (playerName === '') {
+                alert('Veuillez entrer votre nom pour commencer.');
+                return;
+            }
+
+            // Redirect to the game page with the selected file and player name as query parameters
+            window.location.href = `game.html?file=${fileName}&playerName=${encodeURIComponent(playerName)}`;
         }
     </script>
 </body>
