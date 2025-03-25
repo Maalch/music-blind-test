@@ -3,7 +3,6 @@ const musicInfoFile = selectedFile ? `data/${selectedFile}` : 'data/Aurelie.txt'
 let musicData = [];
 let currentTrackIndex = 0;
 let userScore = 0; // Initialize the user's score
-let playerName = ''; // Initialize the player's name
 
 document.addEventListener('DOMContentLoaded', () => {
     fetchMusicInfo();
@@ -54,7 +53,7 @@ function skipTrack() {
     if (currentAudio && !currentAudio.paused) {
         currentAudio.pause();
         currentAudio.currentTime = 0; // Reset to the beginning
-        document.getElementById('play-button').textContent = 'Play'; // Reset button text
+        document.getElementById('play-button').textContent = 'Ecouter'; // Reset button text
         currentAudio = null;
     }
 
@@ -100,7 +99,7 @@ function playMusic() {
         // Stop the currently playing audio
         currentAudio.pause();
         currentAudio.currentTime = 0; // Reset to the beginning
-        playButton.textContent = 'Play';
+        playButton.textContent = 'Ecouter';
         currentAudio = null;
     } else {
         // Play the selected audio
@@ -110,7 +109,7 @@ function playMusic() {
 
         // Reset button text when the audio ends
         currentAudio.addEventListener('ended', () => {
-            playButton.textContent = 'Play';
+            playButton.textContent = 'Ecouter';
             currentAudio = null;
         });
     }

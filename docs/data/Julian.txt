@@ -21,3 +21,5 @@ PossibleAnswers:Fallout 4,Fallout $$$ File:J15.mp3 $$$ Difficulty:4 $$$ ShortDis
 PossibleAnswers:Torchlight II,Torchlight,Torchlight 2 $$$ File:J16.mp3 $$$ Difficulty:4 $$$ ShortDisplay:https://www.youtube.com/embed/Il1u3lpY40I
 PossibleAnswers:Batman: Arkham Knight,Batman,Batman:Arkham Knight $$$ File:J17.mp3 $$$ Difficulty:5 $$$ ShortDisplay:https://www.youtube.com/embed/vQrh92Xmwt0
 PossibleAnswers:Among Us $$$ File:J18.mp3 $$$ Difficulty:1 $$$ ShortDisplay:https://www.youtube.com/embed/iwHa2kVonyU
+PossibleAnswers:Worm,Worms,Worms W.M.D, Worms WMD $$$ File:J19.mp3 $$$ Difficulty:1 $$$ ShortDisplay:https://www.youtube.com/embed/HmWpXCkQnRM
+PossibleAnswers:Mario Strikers Charged Football,Mario Strickers,Mario Strickers Charged,Mario,Mario Football $$$ File:J20.mp3 $$$ Difficulty:1 $$$ ShortDisplay:https://www.youtube.com/embed/XBinxNwAN5s
