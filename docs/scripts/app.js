@@ -232,8 +232,6 @@ function showFinalScoreModal() {
         date: new Date().toISOString(), // Current date in ISO format
     };
 
-    console.log('Sending results:', JSON.stringify(results));
-
     fetch('https://pacific-tor-04753-775fa950a6aa.herokuapp.com/save-results', {
         method: 'POST',
         headers: {
