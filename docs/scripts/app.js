@@ -227,6 +227,7 @@ function showFinalScoreModal() {
         userName: playerName,
         userScore: userScore,
         totalTracks: musicData.length,
+        playList: selectedFile, // Include the name of the source file
         date: new Date().toISOString(), // Current date in ISO format
     };
 
