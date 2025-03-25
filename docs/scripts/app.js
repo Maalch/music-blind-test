@@ -60,14 +60,10 @@ function skipTrack() {
     // Clear the input field
     document.getElementById('guess-input').value = '';
 
-    // Move to the next track
-    if (currentTrackIndex === musicData.length - 1) {
-        // If it's the last track, show the final score modal
-        showFinalScoreModal();
-    } else {
-        currentTrackIndex = (currentTrackIndex + 1) % musicData.length;
-        displayCurrentTrack();
-    }
+    // Display the correct answer in the modal
+    const trackInfo = musicData[currentTrackIndex];
+    const correctAnswerMessage = `Vous avez passé ! Les réponses acceptées étaient: ${trackInfo.possibleAnswers.join(', ')}`;
+    showYouTubeModal(correctAnswerMessage, trackInfo.shortDisplay);
 }
 
 function displayCurrentTrack() {

@@ -14,13 +14,10 @@ PossibleAnswers:Mario Party 5,Mario Party $$$ File:J8.mp3 $$$ Difficulty:2 $$$ S
 PossibleAnswers:Unrailed!,Unrailed,Unrailed 1 $$$ File:J9.mp3 $$$ Difficulty:5 $$$ ShortDisplay:https://www.youtube.com/embed/ZudRCM0-yyI
 PossibleAnswers:Slay the Spire $$$ File:J10.mp3 $$$ Difficulty:3 $$$ ShortDisplay:https://www.youtube.com/embed/xeZDWkcIGXc
 PossibleAnswers:Stardew Valley $$$ File:J11.mp3 $$$ Difficulty:1 $$$ ShortDisplay:https://www.youtube.com/embed/FQSHcl6TJb4 $$$ Comment:Pour Emilie...
-PossibleAnswers:Donkey Kong Country 2,DK2,Donkey Kong Country,Donkey Kong $$$ File:J12.mp3 $$$ Difficulty:3 $$$ ShortDisplay:https://www.youtube.com/embed/mdPlcKg-qFs
+PossibleAnswers:Donkey Kong Country 2,DK2,Donkey Kong Country,Donkey Kong,dk,dk2,dk 2 $$$ File:J12.mp3 $$$ Difficulty:3 $$$ ShortDisplay:https://www.youtube.com/embed/mdPlcKg-qFs
 PossibleAnswers:Civilization V,Civilization,Civilization 5,civ, civ 5 $$$ File:J13.mp3 $$$ Difficulty:4 $$$ ShortDisplay:https://www.youtube.com/embed/B5A7hwjYXFw
 PossibleAnswers:Civilization VI,Civilization,Civilization 6,civ,civ 6 $$$ File:J14.mp3 $$$ Difficulty:2 $$$ ShortDisplay:https://www.youtube.com/embed/WQYN2P3E06s
 PossibleAnswers:Fallout 4,Fallout $$$ File:J15.mp3 $$$ Difficulty:4 $$$ ShortDisplay:https://www.youtube.com/embed/_yGpoRbwe4s
 PossibleAnswers:Torchlight II,Torchlight,Torchlight 2 $$$ File:J16.mp3 $$$ Difficulty:4 $$$ ShortDisplay:https://www.youtube.com/embed/Il1u3lpY40I
 PossibleAnswers:Batman: Arkham Knight,Batman,Batman:Arkham Knight $$$ File:J17.mp3 $$$ Difficulty:5 $$$ ShortDisplay:https://www.youtube.com/embed/vQrh92Xmwt0
 PossibleAnswers:Among Us $$$ File:J18.mp3 $$$ Difficulty:1 $$$ ShortDisplay:https://www.youtube.com/embed/iwHa2kVonyU
-
-Worms
-Mario Strikers
