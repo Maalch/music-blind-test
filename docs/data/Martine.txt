@@ -1,1 +1,10 @@
-PossibleAnswers:Animal Crossing new Horizon,Animal Crossing $$$ File:A7.mp3 $$$ Difficulty:1 $$$ ShortDisplay:https://www.youtube.com/embed/vc1zlXMyZow 
+PossibleAnswers:cités d'or,les mystérieuses cités d'or,mystérieuses cités d'or $$$ File:M1.mp3 $$$ Difficulty:1 $$$ ShortDisplay:https://www.youtube.com/embed/jSv-D-tL0NE $$ comment:Karaokééé
+PossibleAnswers:peaky,peaky blinders $$$ File:M2.mp3 $$$ Difficulty:3 $$$ ShortDisplay:https://www.youtube.com/embed/Be56k1Ui2Yg
+PossibleAnswers:Mac gyver,macgyver $$$ File:M3.mp3 $$$ Difficulty:1 $$$ ShortDisplay:https://www.youtube.com/embed/txgiFXjmQzM
+PossibleAnswers:Urgences,urgences,ER,Emergency Room $$$ File:M4.mp3 $$$ Difficulty:1 $$$ ShortDisplay:https://www.youtube.com/embed/wyUWlvX27VI
+PossibleAnswers:Friends,friend $$$ File:M5.mp3 $$$ Difficulty:1 $$$ ShortDisplay:https://www.youtube.com/embed/DhdsRFq3VM0
+PossibleAnswers:Dr.Quinn,Docteur Quinn,Dr. Quinn,Femme Médecin,docteur quinn femme médecin $$$ File:M6.mp3 $$$ Difficulty:1 $$$ ShortDisplay:https://www.youtube.com/embed/430MGXWneJI
+PossibleAnswers:Six feet under $$$ File:M7.mp3 $$$ Difficulty:4 $$$ ShortDisplay:https://www.youtube.com/embed/430MGXWneJI
+PossibleAnswers:Les guignols de l'info,guignols de l'info,guignols $$$ File:M8.mp3 $$$ Difficulty:1 $$$ ShortDisplay:https://www.youtube.com/embed/37koP5HRnMo
+PossibleAnswers:La fête à la maison,fête à la maison $$$ File:M9.mp3 $$$ Difficulty:3 $$$ ShortDisplay:https://www.youtube.com/embed/rHqIFCTptPY
+PossibleAnswers:Princesse Sarah $$$ File:M10.mp3 $$$ Difficulty:3 $$$ ShortDisplay:https://www.youtube.com/embed/wIAataOuYuo $$$ Comment:Karaokééé
