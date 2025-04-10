@@ -232,7 +232,7 @@ function showFinalScoreModal() {
         date: new Date().toISOString(), // Current date in ISO format
     };
 
-    fetch('https://pacific-tor-04753-775fa950a6aa.herokuapp.com/save-results', {
+    fetch('https://music-blind-test-back.onrender.com/save-results', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
