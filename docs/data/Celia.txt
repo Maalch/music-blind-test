@@ -3,6 +3,10 @@ PossibleAnswers:vida,vida la veto,vida la véto $$$ File:C2.mp3 $$$ Difficulty:1
 PossibleAnswers:Bluey,bluey! $$$ File:C3.mp3 $$$ Difficulty:1 $$$ ShortDisplay:https://www.youtube.com/embed/X9lsLuIJmzY
 PossibleAnswers:Yétili,yetili $$$ File:C4.mp3 $$$ Difficulty:1 $$$ ShortDisplay:https://www.youtube.com/embed/_pwYM6nDnz8
 PossibleAnswers:les moodz,les moods,moodz,moods $$$ File:C5.mp3 $$$ Difficulty:1 $$$ ShortDisplay:https://www.youtube.com/embed/7x7MV6asDTo
-PossibleAnswers:Animal crossing,animal crossing new horizon,jeu des bonhommes $$$ File:C6.mp3 $$$ Difficulty:4 $$$ ShortDisplay:https://www.youtube.com/embed/lI_C1Bjdqn4
-PossibleAnswers:Pip et Posy,Pip et Prune $$$ File:C7.mp3 $$$ Difficulty:1 $$$ ShortDisplay:https://www.youtube.com/embed/PUIkMdSbIRA
-PossibleAnswers:bing,bing! $$$ File:C8.mp3 $$$ Difficulty:1 $$$ ShortDisplay:https://www.youtube.com/embed/shF3o9TzXY0
+PossibleAnswers:Animal crossing,animal crossing new horizon,jeu des bonhommes $$$ File:C6.mp3 $$$ Difficulty:5 $$$ ShortDisplay:https://www.youtube.com/embed/lI_C1Bjdqn4
+PossibleAnswers:Pip et Posy,Pip et Prune $$$ File:C7.mp3 $$$ Difficulty:4 $$$ ShortDisplay:https://www.youtube.com/embed/PUIkMdSbIRA
+PossibleAnswers:bing,bing! $$$ File:C8.mp3 $$$ Difficulty:3 $$$ ShortDisplay:https://www.youtube.com/embed/shF3o9TzXY0
+PossibleAnswers:Ana et ses amis,Anna et ses amis,Ana,Anna $$$ File:C9.mp3 $$$ Difficulty:2 $$$ ShortDisplay:https://www.youtube.com/embed/trl7GWBd5PE
+PossibleAnswers:La reine des neiges,reine de neiges,Libérée delivrée $$$ File:C10.mp3 $$$ Difficulty:1 $$$ ShortDisplay:https://www.youtube.com/embed/wQP9XZc2Y_c
+
+
