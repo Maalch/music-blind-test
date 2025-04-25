@@ -1,0 +1,8 @@
+PossibleAnswers:ponpon,pompon,pompon ours,ponpon ours $$$ File:C1.mp3 $$$ Difficulty:4 $$$ ShortDisplay:https://www.youtube.com/embed/19EHcvrHHRg
+PossibleAnswers:vida,vida la veto,vida la véto $$$ File:C2.mp3 $$$ Difficulty:1 $$$ ShortDisplay:https://www.youtube.com/embed/HnC4WvT2F6M
+PossibleAnswers:Bluey,bluey! $$$ File:C3.mp3 $$$ Difficulty:1 $$$ ShortDisplay:https://www.youtube.com/embed/X9lsLuIJmzY
+PossibleAnswers:Yétili,yetili $$$ File:C4.mp3 $$$ Difficulty:1 $$$ ShortDisplay:https://www.youtube.com/embed/_pwYM6nDnz8
+PossibleAnswers:les moodz,les moods,moodz,moods $$$ File:C5.mp3 $$$ Difficulty:1 $$$ ShortDisplay:https://www.youtube.com/embed/7x7MV6asDTo
+PossibleAnswers:Animal crossing,animal crossing new horizon,jeu des bonhommes $$$ File:C6.mp3 $$$ Difficulty:4 $$$ ShortDisplay:https://www.youtube.com/embed/lI_C1Bjdqn4
+PossibleAnswers:Pip et Posy,Pip et Prune $$$ File:C7.mp3 $$$ Difficulty:1 $$$ ShortDisplay:https://www.youtube.com/embed/PUIkMdSbIRA
+PossibleAnswers:bing,bing! $$$ File:C8.mp3 $$$ Difficulty:1 $$$ ShortDisplay:https://www.youtube.com/embed/shF3o9TzXY0
