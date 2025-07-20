@@ -4,10 +4,10 @@
   "description": "A web page for a music blind test where users guess the title of the music samples.",
   "main": "src/scripts/app.js",
   "scripts": {
-    "start": "live-server src"
+    "start": "live-server docs"
   },
   "dependencies": {
-    "live-server": "^1.2.0"
+    "live-server": "^1.2.2"
   },
   "author": "",
   "license": "ISC"

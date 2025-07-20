@@ -49,6 +49,10 @@ function fetchMusicInfo() {
 }
 
 function skipTrack() {
+    // Add confirmation dialog before skipping
+    if (!confirm("Êtes-vous sûr de vouloir passer cette musique ?")) {
+        return; // Do nothing if user cancels
+    }
     // Stop the currently playing audio
     if (currentAudio && !currentAudio.paused) {
         currentAudio.pause();
@@ -90,6 +94,7 @@ function displayCurrentTrack() {
 }
 
 let currentAudio = null; // To keep track of the currently playing audio
+
 
 function playMusic() {
     const playButton = document.getElementById('play-button');

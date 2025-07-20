@@ -1,0 +1,26 @@
+PossibleAnswers:Cyberpunk,Cyberpunk 2077 $$$ File:JPL/JPL1.mp3 $$$ Difficulty:2 $$$ ShortDisplay:https://www.youtube.com/embed/AN1RJF55NXI 
+PossibleAnswers:Zelda BotW,Zelda,BotW $$$ File:JPL/JPL2.mp3 $$$ Difficulty:1 $$$ ShortDisplay:https://www.youtube.com/embed/xGi23M_5lXg 
+PossibleAnswers:Sidon's theme,Sidon,Zelda,Zelda BotW,BotW $$$ File:JPL/JPL3.mp3 $$$ Difficulty:2 $$$ ShortDisplay:https://www.youtube.com/embed/Fo4UwWZUsVo 
+PossibleAnswers:Zelda Totk,Zelda,Totk $$$ File:JPL/JPL4.mp3 $$$ Difficulty:1 $$$ ShortDisplay:https://www.youtube.com/embed/g0Z153pdTcg 
+PossibleAnswers:Yoshi,Yoshi island,Yoshi's island $$$ File:JPL/JPL5.mp3 $$$ Difficulty:3 $$$ ShortDisplay:https://www.youtube.com/embed/tnYYq41fCjs
+PossibleAnswers:King Arthur World,King Arthur's World $$$ File:JPL/JPL6.mp3 $$$ Difficulty:3 $$$ ShortDisplay:https://www.youtube.com/embed/2FETFNurQjI
+PossibleAnswers:Final Fantasy VI,FF VI,Final Fantasy 6,FF6 $$$ File:JPL/JPL7.mp3 $$$ Difficulty:4 $$$ ShortDisplay:https://www.youtube.com/embed/1NKZt4RSwNI
+PossibleAnswers:Final Fantasy Mystic Quest,Mystic Quest $$$ File:JPL/JPL8.mp3 $$$ Difficulty:4 $$$ ShortDisplay:https://www.youtube.com/embed/XZOQ8sLO-vU
+PossibleAnswers:F-Zero,F-Zero X,F Zero,F Zero X $$$ File:JPL/JPL9.mp3 $$$ Difficulty:2 $$$ ShortDisplay:https://www.youtube.com/embed/EUSxabS5_qM
+PossibleAnswers:Star Fox,Starfox $$$ File:JPL/JPL10.mp3 $$$ Difficulty:3 $$$ ShortDisplay:https://www.youtube.com/embed/2jsHUd6sRow $$$ Comments: Remix Smash Bros.
+PossibleAnswers:Donkey Kong,Donkey Kong Country,DK1,DK $$$ File:JPL/JPL11.mp3 $$$ Difficulty:1 $$$ ShortDisplay:https://www.youtube.com/embed/62ey9R_-S9U
+PossibleAnswers:Zelda,Zelda: A Link to the Past,Zelda SNES,The Legend of Zelda: A link to the Past $$$ File:JPL/JPL12.mp3 $$$ Difficulty:1 $$$ ShortDisplay:https://www.youtube.com/embed/sslj06K-Nlw
+PossibleAnswers:Zelda,Zelda: Link's Awakening,The Legend of Zelda: Link's Awakening $$$ File:JPL/JPL13.mp3 $$$ Difficulty:2 $$$ ShortDisplay:https://www.youtube.com/embed/RkUiR8PFlh4 $$$ Comments: Version Switch
+PossibleAnswers:Illusion of Gaia $$$ File:JPL/JPL14.mp3 $$$ Difficulty:3 $$$ ShortDisplay:https://www.youtube.com/embed/Z2ebcGAVYWM
+PossibleAnswers:Mario Kart,Mario Kart World $$$ File:JPL/JPL15.mp3 $$$ Difficulty:3 $$$ ShortDisplay:https://www.youtube.com/embed/SavrUUFgcBY $$$ Comments: Version "moderne"...
+PossibleAnswers:Street Fighter,Street Fighter 2,Street Fighter 2 Turbo $$$ File:JPL/JPL16.mp3 $$$ Difficulty:2 $$$ ShortDisplay:https://www.youtube.com/embed/_dSH5FZeL80
+PossibleAnswers:Super Metroid,Metroid $$$ File:JPL/JPL17.mp3 $$$ Difficulty:2 $$$ ShortDisplay:https://www.youtube.com/embed/8NoEvgpvDQc
+PossibleAnswers:Chrono Trigger $$$ File:JPL/JPL18.mp3 $$$ Difficulty:2 $$$ ShortDisplay:https://www.youtube.com/embed/jf5D1xnCjbY
+PossibleAnswers:1080,1080° $$$ File:JPL/JPL19.mp3 $$$ Difficulty:3 $$$ ShortDisplay:https://www.youtube.com/embed/M28GtGSkuQo
+PossibleAnswers:Perfect Dark $$$ File:JPL/JPL20.mp3 $$$ Difficulty:3 $$$ ShortDisplay:https://www.youtube.com/embed/8u7MRJi2UGg
+PossibleAnswers:Mario 64,Mario $$$ File:JPL/JPL21.mp3 $$$ Difficulty:3 $$$ ShortDisplay:https://www.youtube.com/embed/Zqa2mgjbOIM
+PossibleAnswers:Final Fantasy: Crystal Chronicles,Final Fantasy $$$ File:JPL/JPL22.mp3 $$$ Difficulty:4 $$$ ShortDisplay:https://www.youtube.com/embed/a4ifdZNy5bU
+PossibleAnswers:Super Mario Sunshine,Mario Sunshine $$$ File:JPL/JPL23.mp3 $$$ Difficulty:2 $$$ ShortDisplay:https://www.youtube.com/embed/mYh6MSdsKj8
+PossibleAnswers:Secret of Mana $$$ File:JPL/JPL24.mp3 $$$ Difficulty:3 $$$ ShortDisplay:https://www.youtube.com/embed/y20pc_0zFgg
+PossibleAnswers:The Witcher 3,Witcher,The Witcher 3: Wild Hunt $$$ File:JPL/JPL25.mp3 $$$ Difficulty:3 $$$ ShortDisplay:https://www.youtube.com/embed/H1XRvZGJAMk
+

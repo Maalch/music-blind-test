@@ -1,22 +1,22 @@
-PossibleAnswers:Peggle 2,Peggle,Pegle $$$ File:A1.mp3 $$$ Difficulty:3 $$$ ShortDisplay:https://www.youtube.com/embed/cmP4r_Pvzc0
-PossibleAnswers:Peggle Deluxe, Peggle,Pegle $$$ File:A2.mp3 $$$ Difficulty:4 $$$ ShortDisplay:https://www.youtube.com/embed/KTUlVvmfExE
-PossibleAnswers:Balatro $$$ File:A3.mp3 $$$ Difficulty:2 $$$ ShortDisplay:https://www.youtube.com/embed/N_4Hyet9-3w $$$ Comment:Version 'live' pour que ce soit un peu plus dur...
-PossibleAnswers:Wow,WorldOfWarcraft,World of Warcraft,Orgrimmar $$$ File:A4.mp3 $$$ Difficulty:2 $$$ ShortDisplay:https://www.youtube.com/embed/gSjf5ChDDqQ
-PossibleAnswers:Wow,WorldOfWarcraft,World of Warcraft,Dragon $$$ File:A5.mp3 $$$ Difficulty:1 $$$ ShortDisplay:https://www.youtube.com/embed/isCsAEwpIOY
-PossibleAnswers:Foundation,Foundations $$$ File:A6.mp3 $$$ Difficulty:5 $$$ ShortDisplay:https://www.youtube.com/embed/mgU4DoAY4UE
-PossibleAnswers:Animal Crossing new Horizon,Animal Crossing $$$ File:A7.mp3 $$$ Difficulty:1 $$$ ShortDisplay:https://www.youtube.com/embed/vc1zlXMyZow 
-PossibleAnswers:Super Mario Marker 2,Super Mario Maker,Mario,Mario Maker,Mario Maker 2 $$$ File:A8.mp3 $$$ Difficulty:3 $$$ ShortDisplay:https://www.youtube.com/embed/WRoR6fxyaxM
-PossibleAnswers:Wii Party U,Wii Party $$$ File:A9.mp3 $$$ Difficulty:4 $$$ ShortDisplay:https://www.youtube.com/embed/Xk0FnZ2_XfM
-PossibleAnswers:Wii Party U, Wii Party $$$ File:A10.mp3 $$$ Difficulty:4 $$$ ShortDisplay:https://www.youtube.com/embed/pJu6uTjVlLQ
-PossibleAnswers:Wii Sports Club,Bowling,Wii Sport,Wii Sports $$$ File:A11.mp3 $$$ Difficulty:5 $$$ ShortDisplay:https://www.youtube.com/embed/gFGERjyFQo4
-PossibleAnswers:Crash Bandicoot,Crash $$$ File:A12.mp3 $$$ Difficulty:4 $$$ ShortDisplay:https://www.youtube.com/embed/4i8qAZOu5-g
-PossibleAnswers:Overcooked 2,OverCooked $$$ File:A13.mp3 $$$ Difficulty:3 $$$ ShortDisplay:https://www.youtube.com/embed/-y6J28I5z0c
-PossibleAnswers:Moving Out $$$ File:A14.mp3 $$$ Difficulty:4 $$$ ShortDisplay:https://www.youtube.com/embed/HR75-jDmVRQ
-PossibleAnswers:Superliminal,superluminal $$$ File:A15.mp3 $$$ Difficulty:5 $$$ ShortDisplay:https://www.youtube.com/embed/5uNh7FJ7tlg
-PossibleAnswers:Cities skylines II,cities skylines,cities skyline,cities skyline 2 $$$ File:A16.mp3 $$$ Difficulty:5 $$$ ShortDisplay:https://www.youtube.com/embed/Y6EebSLohJE
-PossibleAnswers:Super Marios Bros,Mario,Mario 1,Mario Bros,Mario $$$ File:A17.mp3 $$$ Difficulty:2 $$$ ShortDisplay:https://www.youtube.com/embed/zc28zcBIX7U
-PossibleAnswers:Mario Kart,Mario Kart 8,MarioKart,MarioKart8,MK,MK8,Mario $$$ File:A18.mp3 $$$ Difficulty:3 $$$ ShortDisplay:https://www.youtube.com/embed/KH5lCh9hsqc
-PossibleAnswers:Hearthstone,HS $$$ File:A19.mp3 $$$ Difficulty:2 $$$ ShortDisplay:https://www.youtube.com/embed/j_vLgPptLp8
-PossibleAnswers:Mario Galaxy,Mario $$$ File:A20.mp3 $$$ Difficulty:4 $$$ ShortDisplay:https://www.youtube.com/embed/984xoStqrq0
-PossibleAnswers:Wii,Me,Channel $$$ File:A21.mp3 $$$ Difficulty:2 $$$ ShortDisplay:https://www.youtube.com/embed/po-0n1BKW2w
-PossibleAnswers:Civilization VI,Civilization,Civilization 6,civ,civ 6 $$$ File:J14.mp3 $$$ Difficulty:2 $$$ ShortDisplay:https://www.youtube.com/embed/WQYN2P3E06s
+PossibleAnswers:Peggle 2,Peggle,Pegle $$$ File:A/A1.mp3 $$$ Difficulty:3 $$$ ShortDisplay:https://www.youtube.com/embed/cmP4r_Pvzc0
+PossibleAnswers:Peggle Deluxe, Peggle,Pegle $$$ File:A/A2.mp3 $$$ Difficulty:4 $$$ ShortDisplay:https://www.youtube.com/embed/KTUlVvmfExE
+PossibleAnswers:Balatro $$$ File:A/A3.mp3 $$$ Difficulty:2 $$$ ShortDisplay:https://www.youtube.com/embed/N_4Hyet9-3w $$$ Comment:Version 'live' pour que ce soit un peu plus dur...
+PossibleAnswers:Wow,WorldOfWarcraft,World of Warcraft,Orgrimmar $$$ File:A/A4.mp3 $$$ Difficulty:2 $$$ ShortDisplay:https://www.youtube.com/embed/gSjf5ChDDqQ
+PossibleAnswers:Wow,WorldOfWarcraft,World of Warcraft,Dragon $$$ File:A/A5.mp3 $$$ Difficulty:1 $$$ ShortDisplay:https://www.youtube.com/embed/isCsAEwpIOY
+PossibleAnswers:Foundation,Foundations $$$ File:A/A6.mp3 $$$ Difficulty:5 $$$ ShortDisplay:https://www.youtube.com/embed/mgU4DoAY4UE
+PossibleAnswers:Animal Crossing new Horizon,Animal Crossing $$$ File:A/A7.mp3 $$$ Difficulty:1 $$$ ShortDisplay:https://www.youtube.com/embed/vc1zlXMyZow 
+PossibleAnswers:Super Mario Marker 2,Super Mario Maker,Mario,Mario Maker,Mario Maker 2 $$$ File:A/A8.mp3 $$$ Difficulty:3 $$$ ShortDisplay:https://www.youtube.com/embed/WRoR6fxyaxM
+PossibleAnswers:Wii Party U,Wii Party $$$ File:A/A9.mp3 $$$ Difficulty:4 $$$ ShortDisplay:https://www.youtube.com/embed/Xk0FnZ2_XfM
+PossibleAnswers:Wii Party U, Wii Party $$$ File:A/A10.mp3 $$$ Difficulty:4 $$$ ShortDisplay:https://www.youtube.com/embed/pJu6uTjVlLQ
+PossibleAnswers:Wii Sports Club,Bowling,Wii Sport,Wii Sports $$$ File:A/A11.mp3 $$$ Difficulty:5 $$$ ShortDisplay:https://www.youtube.com/embed/gFGERjyFQo4
+PossibleAnswers:Crash Bandicoot,Crash $$$ File:A/A12.mp3 $$$ Difficulty:4 $$$ ShortDisplay:https://www.youtube.com/embed/4i8qAZOu5-g
+PossibleAnswers:Overcooked 2,OverCooked $$$ File:A/A13.mp3 $$$ Difficulty:3 $$$ ShortDisplay:https://www.youtube.com/embed/-y6J28I5z0c
+PossibleAnswers:Moving Out $$$ File:A/A14.mp3 $$$ Difficulty:4 $$$ ShortDisplay:https://www.youtube.com/embed/HR75-jDmVRQ
+PossibleAnswers:Superliminal,superluminal $$$ File:A/A15.mp3 $$$ Difficulty:5 $$$ ShortDisplay:https://www.youtube.com/embed/5uNh7FJ7tlg
+PossibleAnswers:Cities skylines II,cities skylines,cities skyline,cities skyline 2 $$$ File:A/A16.mp3 $$$ Difficulty:5 $$$ ShortDisplay:https://www.youtube.com/embed/Y6EebSLohJE
+PossibleAnswers:Super Marios Bros,Mario,Mario 1,Mario Bros,Mario $$$ File:A/A17.mp3 $$$ Difficulty:2 $$$ ShortDisplay:https://www.youtube.com/embed/zc28zcBIX7U
+PossibleAnswers:Mario Kart,Mario Kart 8,MarioKart,MarioKart8,MK,MK8,Mario $$$ File:A/A18.mp3 $$$ Difficulty:3 $$$ ShortDisplay:https://www.youtube.com/embed/KH5lCh9hsqc
+PossibleAnswers:Hearthstone,HS $$$ File:A/A19.mp3 $$$ Difficulty:2 $$$ ShortDisplay:https://www.youtube.com/embed/j_vLgPptLp8
+PossibleAnswers:Mario Galaxy,Mario $$$ File:A/A20.mp3 $$$ Difficulty:4 $$$ ShortDisplay:https://www.youtube.com/embed/984xoStqrq0
+PossibleAnswers:Wii,Me,Channel $$$ File:A/A21.mp3 $$$ Difficulty:2 $$$ ShortDisplay:https://www.youtube.com/embed/po-0n1BKW2w
+PossibleAnswers:Civilization VI,Civilization,Civilization 6,civ,civ 6 $$$ File:J/J14.mp3 $$$ Difficulty:2 $$$ ShortDisplay:https://www.youtube.com/embed/WQYN2P3E06s
